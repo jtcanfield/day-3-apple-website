@@ -1,6 +1,6 @@
 html {
   text-align: center;
-  font-family: serif;
+  font-family: sans-serif;
 }
 li{
   list-style: none;
@@ -18,4 +18,5 @@ li{
   padding-bottom: 20%;
   background-image: url("iphone-background.jpg");
   background-size: cover;
+  text-decoration: none;
 }

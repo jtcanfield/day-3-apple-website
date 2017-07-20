@@ -1,3 +1,4 @@
+/*<link rel="stylesheet" href="/Users/jonathancanfield/documents/font-awesome-4.7.0/css/font-awesome.min.css">*/
 html {
   text-align: center;
 }
@@ -7,4 +8,5 @@ html {
   background-color: rgb(44, 38, 35);
   color: rgb(250, 250, 250);
   padding: 15px;
+  list-style: none;
 }

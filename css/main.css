@@ -1,5 +1,6 @@
 html {
   text-align: center;
+  font-family: serif;
 }
 li{
   list-style: none;
@@ -14,7 +15,7 @@ li{
 }
 .header-content {
   padding-top: 10%;
-  padding-bottom: 15%;
+  padding-bottom: 20%;
   background-image: url("iphone-background.jpg");
   background-size: cover;
 }

@@ -14,13 +14,8 @@ li{
   margin: 0px;
 }
 .header-content {
-  /*display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  align-content: center;*/
-
-  padding-bottom: 25%;
+  padding-top: 10%;
+  padding-bottom: 15%;
   background-image: url("iphone-background.jpg");
   background-size: cover;
 }

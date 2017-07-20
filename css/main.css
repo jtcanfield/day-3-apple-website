@@ -18,8 +18,9 @@ a {
   margin: 0px;
 }
 .header-content {
+  font-weight: bold;
   padding-top: 10%;
-  padding-bottom: 20%;
+  padding-bottom: 15%;
   background-image: url("iphone-background.jpg");
   background-size: cover;
   color: rgb(50, 50, 50);
@@ -30,4 +31,12 @@ a {
 }
 .header-sm-title {
   text-transform: uppercase;
+}
+.header-sm-title, .header-lg-title{
+  font-size: 45px;
+}
+.header-links {
+  margin: 0% 33%;
+  display: flex;
+  justify-content: space-around;
 }

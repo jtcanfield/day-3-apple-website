@@ -6,4 +6,5 @@ html {
   justify-content: space-around;
   background-color: rgb(44, 38, 35);
   color: rgb(250, 250, 250);
+  padding: 15px;
 }

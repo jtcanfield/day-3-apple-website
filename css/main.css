@@ -9,8 +9,10 @@ html {
   color: rgb(250, 250, 250);
   padding: 15px;
   list-style: none;
+  margin: 0px;
 }
 .header-content {
+  display: flex;
   padding-bottom: 25%;
   background-image: url("iphone-background.jpg");
   background-size: cover;

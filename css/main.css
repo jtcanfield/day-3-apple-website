@@ -10,3 +10,8 @@ html {
   padding: 15px;
   list-style: none;
 }
+.header-content {
+  padding-bottom: 25%;
+  background-image: url("iphone-background.jpg");
+  background-size: cover;
+}

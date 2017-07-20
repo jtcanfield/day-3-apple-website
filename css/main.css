@@ -5,6 +5,10 @@ html {
 li{
   list-style: none;
 }
+a {
+  text-decoration: none;
+  color: rgb(50, 50, 50);
+}
 .nav-ul{
   display: flex;
   justify-content: space-around;
@@ -18,5 +22,12 @@ li{
   padding-bottom: 20%;
   background-image: url("iphone-background.jpg");
   background-size: cover;
+  color: rgb(50, 50, 50);
+}
+.header-content a {
   text-decoration: none;
+  color: rgb(50, 50, 50);
+}
+.header-sm-title {
+  text-transform: uppercase;
 }
